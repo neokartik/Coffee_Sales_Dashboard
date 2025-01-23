@@ -99,7 +99,7 @@ The project relies on the following datasets:
 
 
 ## Required Dashboard:
-![image alt]()
+![image alt](https://github.com/neokartik/Coffee_Sales_Dashboard/blob/9dbea3c5716dd00a6c32f4b16cad2079c868c509/Dataset%20%26%20assests/coffee_dashboard.png)
 
 ## Conclusion
 
