@@ -84,7 +84,7 @@ To use the Coffee Sales Dashboard, follow these steps:
 
 3. **Data Processing**:
    - Import the CSV files into the Excel dashboard.
-   - Perform necessary data transformations using built-in Excel functions like `VLOOKUP`, `SUMIF`, `COUNTIF`, and conditional formatting.
+   - Perform necessary data transformations using built-in Excel functions like `VLOOKUP`, `SUM`,`IF-ELSE`,`INDEX-MATCH` and conditional formatting if required.
    
 4. **Visualize**:
    - Use Excel charts like bar charts, line graphs and PivotTables to create interactive and dynamic visualizations.
@@ -96,6 +96,10 @@ The project relies on the following datasets:
 1. **Orders Dataset**: Contains information about individual coffee orders, including the type of coffee, customer details, and sales data.
 2. **Customers Dataset**: Provides demographic details about customers, which can be used to segment sales by customer attributes such as location and loyalty card status.
 3. **Products Dataset**: Includes details about coffee products, helping analyze pricing, profit margins, and customer preferences for various product configurations (e.g., coffee types, roast types, sizes).
+
+
+## Required Dashboard:
+![image alt]()
 
 ## Conclusion
 
